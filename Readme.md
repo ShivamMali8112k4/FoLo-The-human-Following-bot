@@ -23,7 +23,7 @@ The robot can detect a person in front of it and follow them by controlling the 
 - Based on sensor input, the Arduino controls the motors to move forward, stop, or turn.
 
 ## 📜 Circuit Diagram
-(Add your circuit image here)
+[image](FoLo.png)
 
 ## 🔧 Arduino Code
 The main Arduino code is available in the [Code](code.ino) folder.
