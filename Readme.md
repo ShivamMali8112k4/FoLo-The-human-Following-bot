@@ -26,7 +26,7 @@ The robot can detect a person in front of it and follow them by controlling the 
 (Add your circuit image here)
 
 ## 🔧 Arduino Code
-The main Arduino code is available in the [Code](.) folder.
+The main Arduino code is available in the [Code](.code.ino) folder.
 
 ## 📸 Demo
 (Add images or video link of your robot in action)
