@@ -30,6 +30,3 @@ The main Arduino code is available in the [Code](code.ino) folder.
 
 ## 📸 Demo
 [image](FoLo.png)
-
-## 📄 License
-This project is open-source under the MIT License.
