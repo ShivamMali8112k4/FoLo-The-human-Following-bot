@@ -29,7 +29,7 @@ The robot can detect a person in front of it and follow them by controlling the 
 The main Arduino code is available in the [Code](code.ino) folder.
 
 ## 📸 Demo
-(Add images or video link of your robot in action)
+FoLo.png
 
 ## 📄 License
 This project is open-source under the MIT License.
